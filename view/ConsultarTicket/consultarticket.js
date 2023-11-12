@@ -125,7 +125,7 @@ $(document).ready(function(){
 });
 
 function ver(tick_id){
-    window.open('http://localhost/helpdesk/view/DetalleTicket/?ID='+ tick_id +'');
+    window.open('http://helpdesk.appsauri.com/view/DetalleTicket/?ID='+ tick_id +'');
 }
 
 function asignar(tick_id){
