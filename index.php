@@ -85,7 +85,7 @@
                         </div>
                     </div>
                     <input type="hidden" name="enviar" class="form-control" value="si">
-                    <button type="submit" class="btn btn-rounded">Acceder</button>
+                    <button type="submit" class="btn btn-rounded">Ingresar</button>
                 </form>
             </div>
         </div>
